@@ -17,8 +17,8 @@
   font-style: normal;
 }
 
-body{
-    background-color: #FFFFFF;
+body {
+  background-color: #F5F8FF;
 }
 
 
@@ -44,6 +44,7 @@ body{
     font-weight: 900;
     margin-top: 50px;
     margin-left: 150px;
+    color: #4E47FF;
 
 }
 .nav-signup{
@@ -152,6 +153,7 @@ main{
     color:#4E47FF ;
     font-size: 80px;
     font-weight: 700;
+    text-align: center;
     
 }
 .section2-p{
@@ -159,13 +161,71 @@ main{
     font-size: 20px;
     font-weight: 400;
     text-align: center;
+    margin-top: -50px;
+    
+}
 
+/* section 3 starts */
+
+.section3{
+    margin-top: 137px;  
+}
+
+.container-title{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    color: #252432;
+    line-height: auto;
+}
+
+
+.section-container{
+    display: flex;
+    gap:20px ;
 }
 
 
 
+.card-container{
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius:14px ;
+    width: 370px;
+    height: 224px;
+    padding: 24px 24px ;
+    
+}
+
+.card-title{
+    color: #1E1E1E;
+
+}
 
 
+.card-description{
+    color: #1E1E1E;
+}
+
+.card-footer{
+    border-radius: 9999;
+}
+
+.footer-name{
+    color: #757575;
+}
+
+.footer-date{
+    color: #757575;
+}
+
+
+
+/* section 3 ends  */
+
+
+/* section 4 starts */
+
+ 
 
 
 
