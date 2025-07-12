@@ -346,8 +346,45 @@ form textarea {
 
 
 
+/* footer */
 
+.footer-container {
+  margin: 50px 270px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.footer-container-content {
+  padding: 100px 400px;
+}
+.footer-title {
+  font-size: 100px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
 
+.footer-description {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(179, 179, 179, 1);
+  margin-bottom: 20px;
+}
+
+footer div ul {
+  list-style: none;
+  display: flex;
+  gap: 45px;
+  margin-top: 20px;
+}
+
+footer ul li a {
+  color: rgba(179, 179, 179, 1);
+  font-size: 18px;
+  text-decoration: none;
+}
+/* Footer styles ends */
 
 
 
