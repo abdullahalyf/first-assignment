@@ -292,6 +292,7 @@ main{
   min-width: 528px;
   margin: 0 auto;
   margin-top: 150px;
+  margin-bottom: 150px;
 }
 .contact-container {
   display: flex;
@@ -318,7 +319,7 @@ form input {
 }
 
 
-.fifth-container-title {
+.section5-title {
   font-size: 97px;
   font-weight: bold;
   line-height: 120%;
@@ -349,7 +350,7 @@ form textarea {
 /* footer */
 
 .footer-container {
-  margin: 50px 270px;
+  
   background-color: #ffffff;
   display: flex;
   justify-content: center;
@@ -357,12 +358,13 @@ form textarea {
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .footer-container-content {
-  padding: 100px 400px;
+  padding: 100px 100px;
 }
 .footer-title {
   font-size: 100px;
   font-weight: 900;
   margin-bottom: 20px;
+  color:#4E47FF ;
 }
 
 .footer-description {
@@ -383,6 +385,14 @@ footer ul li a {
   color: rgba(179, 179, 179, 1);
   font-size: 18px;
   text-decoration: none;
+}
+
+
+.footer{
+         margin-top: 150px;
+        
+        margin: 0 auto;
+
 }
 /* Footer styles ends */
 
