@@ -169,6 +169,7 @@ main{
 
 .section3{
     margin-top: 137px;  
+   margin-bottom: 150px;
 }
 
 .container-title{
@@ -191,7 +192,7 @@ main{
     background-color: rgba(255, 255, 255, 0.5);
     border-radius:14px ;
     width: 370px;
-    height: 224px;
+    height: 260px;
     padding: 24px 24px ;
     
 }
@@ -225,7 +226,101 @@ main{
 
 /* section 4 starts */
 
+ .section4{
+    border-top: 120px ;
+    background-color: #FFFFFF ;
  
+    border-radius: 14px;
+ 
+     margin: 0 auto;
+     
+ }
+
+
+ .section4-content{
+    padding: 71px 150px ;
+    text-align: center;
+    
+ }
+
+
+.section4-title{
+
+    font-size: 50px;
+    font-weight: 700;
+    
+    margin-bottom: 20px;
+    line-height: 120%;
+}
+
+.section4-description{
+
+    color:rgba(0, 0, 0, 0.5) ;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+}
+
+
+.section4-img{
+    border-top: 20px;
+    border-radius: 48px;
+    height: 366px;
+    width: 840px;
+
+     
+}
+
+
+.s4btn, .section4-img{
+    display: block;
+
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
